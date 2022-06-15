@@ -1,0 +1,2 @@
+# AI-Chatbot Python
+This is a chatbot for a hypothetical electronics shop. The bot uses AI to give the appropriate response to a customers question, even if it has never seen the question before, this is done by training the chatbot with data. This code only works for python 3.6 due to the latest version of python not being compatible with the dependencies used in this project.
